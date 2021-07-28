@@ -1,0 +1,8 @@
+li = [int(i) for i in input("Enter the values:").split()]
+print(li)
+print("Sorting the list")
+li.sort()
+print(li)
+print("reversing the list")
+li.reverse()
+print(li)
